@@ -1,6 +1,2 @@
-<script>
-txt = "feens";
-while(1){
-    txt = txt += "feensfuckedurpc"; 
-}
-</script>
+for (var i = 5; i > 3; i = i + 1)
+  { console.log(i); }
